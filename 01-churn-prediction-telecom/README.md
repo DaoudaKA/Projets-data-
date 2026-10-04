@@ -348,9 +348,9 @@ git push origin main
 ## 👤 Auteur
 
 **Votre Nom**
-- GitHub : [@votre-username](https://github.com/votre-username)
-- LinkedIn : [Votre Profil](https://linkedin.com/in/votre-profil)
-- Portfolio : [votre-site.com](https://votre-site.com)
+- GitHub : https://github.com/DaoudaKA
+- LinkedIn : https://www.linkedin.com/in/daouda-ka-967028255
+- Portfolio : https://daouda-ka-github-io.vercel.app/
 
 ---
 
